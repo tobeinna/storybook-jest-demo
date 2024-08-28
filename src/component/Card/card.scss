@@ -1,0 +1,14 @@
+.card-container {
+  padding: 16px 28px;
+  border: 1px solid #e2e0e0;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  .button-group {
+    display: flex;
+    gap: 16px;
+    border: unset;
+  }
+}

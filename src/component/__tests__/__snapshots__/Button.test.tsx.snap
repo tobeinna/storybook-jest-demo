@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component snapshot test for danger button 1`] = `
+<div>
+  <button
+    class="danger"
+  >
+    <span>
+      Danger Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Button component snapshot test for disabled button 1`] = `
+<div>
+  <button
+    class="primary"
+    disabled=""
+  >
+    <span>
+      Disabled Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Button component snapshot test for primary button 1`] = `
+<div>
+  <button
+    class="primary"
+  >
+    <span>
+      Primary Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Button component snapshot test for secondary button 1`] = `
+<div>
+  <button
+    class="secondary"
+  >
+    <span>
+      Secondary Button
+    </span>
+  </button>
+</div>
+`;

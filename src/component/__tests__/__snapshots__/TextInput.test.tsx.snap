@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput component snapshot test for disabled text input 1`] = `
+<div>
+  <input
+    disabled=""
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`TextInput component snapshot test for normal text input 1`] = `
+<div>
+  <input
+    type="text"
+    value=""
+  />
+</div>
+`;
